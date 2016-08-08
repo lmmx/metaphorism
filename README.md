@@ -16,6 +16,6 @@ They are also embellishable in a way much metadata is not, through the productiv
   - Later I noticed that it could be thought of more _productively_ as similar to '[random forest](https://en.wikipedia.org/wiki/Random_forest)' (RF)
     - conceptually, the machine learning (~'artificial intelligence') technique of RF creates an 'ensemble' [multitude] of [decision trees](https://en.wikipedia.org/wiki/Decision_tree_learning) and outputting the modal class [for classification] or mean prediction [for regression]
 
-## Tree huggers beware!
+## Gardeners beware!
 
 > trees that are grown very deep tend to learn highly irregular patterns: they overfit their training sets, because they have low bias, but very high variance. Random forests are a way of averaging multiple deep decision trees, trained on different parts of the same training set, with the goal of reducing the variance.[3]:587–588 This comes at the expense of a small increase in the bias and some loss of interpretability, but generally greatly boosts the performance of the final model.
